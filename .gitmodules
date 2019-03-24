@@ -1,3 +1,6 @@
 [submodule "smart-ssm-boot"]
 	path = smart-ssm-boot
 	url = https://github.com/DearZh/smart-ssm-boot.git
+[submodule "smart-oAuth"]
+	path = smart-oAuth
+	url = https://github.com/DearZh/smart-oAuth.git
