@@ -1,0 +1,3 @@
+[submodule "smart-ssm-boot"]
+	path = smart-ssm-boot
+	url = https://github.com/DearZh/smart-ssm-boot.git
