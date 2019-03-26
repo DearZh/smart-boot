@@ -4,3 +4,6 @@
 [submodule "smart-oAuth"]
 	path = smart-oAuth
 	url = https://github.com/DearZh/smart-oAuth.git
+[submodule "smart-robot"]
+	path = smart-robot
+	url = https://github.com/DearZh/smart-robot.git
