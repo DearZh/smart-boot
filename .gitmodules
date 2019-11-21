@@ -7,3 +7,6 @@
 [submodule "smart-robot"]
 	path = smart-robot
 	url = https://github.com/DearZh/smart-robot.git
+[submodule "smart-cloud-learn"]
+	path = smart-cloud-learn
+	url = https://github.com/DearZh/smart-cloud-learn
